@@ -1,0 +1,2 @@
+{:main scratch-app.core
+ :output-to "resources/public/main.js"}
